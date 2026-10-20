@@ -1,0 +1,10 @@
+{
+  "name": "testing-and-debugging",
+  "version": "0.1.0",
+  "description": "Develop features test-first, reproduce bugs, and prove regression fixes through observed behavior.",
+  "author": {
+    "name": "Leotus-Richard"
+  },
+  "repository": "https://github.com/Leotus-Richard/testing-and-debugging",
+  "license": "MIT"
+}

@@ -1,0 +1,52 @@
+> Archived source reference, repackaged by Leotus-Richard on 2026-10-20. This is not an active skill or execution policy. Use the domain hub for current task scope and available capabilities; host commands, integrations, local-only rules, identity rules, and publishing steps below are historical examples. Modifications: discovery filename and local links normalized where needed, machine paths replaced where present; source substance retained.
+
+---
+name: tdd
+description: "Build explicitly requested features test-first through public seams; use regression-tdd for focused bug verification."
+metadata:
+  version: "1.2.0"
+  profile: "local-task-toolkit"
+  invocation: "task-specific"
+  integration-status: "portable-instructions-host-untested"
+---
+
+# Tdd
+
+## Scope
+
+Read `references/local-execution-contract.md` at task start. This skill is task-specific and local-only. Do not activate remote integrations, persistent modes, hooks or unrelated implementation.
+
+## Workflow
+
+1. Read domain vocabulary and the bundled tests.md and mocking.md references.
+2. Identify an already-approved public seam. If a new seam defines a product contract, propose what it catches and misses and confirm that decision.
+3. Write one behavior test with an independently known expected value; run it and observe the intended failure.
+4. Implement only enough behavior to pass that test, then rerun it. Continue one vertical slice at a time, not all tests followed by all code.
+5. Mock only external boundaries that cannot reasonably run locally. Review refactoring separately using code-review.
+
+## Commit handoff
+
+When this implementation task explicitly includes local commits, read the installed commit-workflow hub for small green slices, confirmed requester identity, structured messages and actual post-commit checks. Do not commit or move dependent work forward on a failing/stale gate; the shared contract preserves scope and host approval requirements.
+
+## Default output
+
+Observed red/green evidence per slice, seam contract, implemented behavior and review findings.
+
+## Failure boundary
+
+Report the missing input or capability; do not fabricate evidence or broaden the task.
+
+## Conditional skill dependencies
+
+- `codebase-design`: read the installed sibling skill only when its named discipline is required by the workflow.
+- `code-review`: read the installed sibling skill only when its named discipline is required by the workflow.
+
+Use the host's actual skill loader, or read the current domain hub (historical dependency syntax removed) from this installed directory. Do not guess host tool names. Install the dependency closure shown in manifest.json if these siblings are absent.
+
+## Upstream resources
+
+The full original skill and its resources are preserved under `references/upstream/`. Read `references/upstream/ORIGINAL-SKILL.md` for detailed rubrics, templates and examples when its branch is relevant. Resolve its relative resource paths from that directory. Its tool names, model IDs, publication steps, transcript paths and persistent modes are source-specific examples, not permission to execute them. Follow this hub and the local execution contract when those instructions conflict.
+
+## Provenance
+
+Adapted from [mattpocock:tdd](https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/tdd/SKILL.md). The original MIT notice is bundled. This is a local-only adaptation, not an endorsement or a claim of native host support.

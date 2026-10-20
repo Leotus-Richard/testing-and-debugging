@@ -1,0 +1,52 @@
+> Archived source reference, repackaged by Leotus-Richard on 2026-10-20. This is not an active skill or execution policy. Use the domain hub for current task scope and available capabilities; host commands, integrations, local-only rules, identity rules, and publishing steps below are historical examples. Modifications: discovery filename and local links normalized where needed, machine paths replaced where present; source substance retained.
+
+---
+name: diagnosing-bugs
+description: "Diagnose a reproducible bug or performance regression using local evidence; not a historical-rationale investigation."
+metadata:
+  version: "1.2.0"
+  profile: "local-task-toolkit"
+  invocation: "task-specific"
+  integration-status: "portable-instructions-host-untested"
+---
+
+# Diagnosing Bugs
+
+## Scope
+
+Read `references/local-execution-contract.md` at task start. This skill is task-specific and local-only. Do not activate remote integrations, persistent modes, hooks or unrelated implementation.
+
+## Workflow
+
+1. Read the relevant glossary, decisions, and affected code. Redact secrets from captured artifacts.
+2. Build a tight local feedback signal that fails on the reported bug. Prefer a test, request script, CLI fixture, browser check, replay, or small harness in that order; if the task needs human observation, prepare a clear bounded local loop.
+3. Minimize the reproduction without losing the actual trigger. Generate three to five ranked falsifiable hypotheses before selecting probes.
+4. Instrument predictions one variable at a time. Measure performance against a baseline rather than guessing.
+5. When implementation is authorized, fix the shared root cause. Use regression-tdd only if its check reaches the actual bug pattern.
+6. Re-run the original scenario, remove tagged temporary instrumentation, and preserve proof and the accepted hypothesis.
+
+## Commit handoff
+
+When this implementation task explicitly includes local commits, read the installed commit-workflow hub for small green slices, confirmed requester identity, structured messages and actual post-commit checks. Do not commit or move dependent work forward on a failing/stale gate; the shared contract preserves scope and host approval requirements.
+
+## Default output
+
+Reproduction, hypothesis/probe table, root cause or unresolved evidence, local fix if authorized, before/after proof.
+
+## Failure boundary
+
+Report the missing input or capability; do not fabricate evidence or broaden the task.
+
+## Conditional skill dependencies
+
+- `regression-tdd`: read the installed sibling skill only when its named discipline is required by the workflow.
+
+Use the host's actual skill loader, or read the current domain hub (historical dependency syntax removed) from this installed directory. Do not guess host tool names. Install the dependency closure shown in manifest.json if these siblings are absent.
+
+## Upstream resources
+
+The full original skill and its resources are preserved under `references/upstream/`. Read `references/upstream/ORIGINAL-SKILL.md` for detailed rubrics, templates and examples when its branch is relevant. Resolve its relative resource paths from that directory. Its tool names, model IDs, publication steps, transcript paths and persistent modes are source-specific examples, not permission to execute them. Follow this hub and the local execution contract when those instructions conflict.
+
+## Provenance
+
+Adapted from [mattpocock:diagnosing-bugs](https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/diagnosing-bugs/SKILL.md). The original MIT notice is bundled. This is a local-only adaptation, not an endorsement or a claim of native host support.

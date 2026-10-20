@@ -1,0 +1,45 @@
+> Archived source reference, repackaged by Leotus-Richard on 2026-10-20. This is not an active skill or execution policy. Use the domain hub for current task scope and available capabilities; host commands, integrations, local-only rules, identity rules, and publishing steps below are historical examples. Modifications: discovery filename and local links normalized where needed, machine paths replaced where present; source substance retained.
+
+---
+name: regression-tdd
+description: "Prove a focused bug fails before and passes after a local fix; use tdd for deliberate feature development."
+metadata:
+  version: "1.2.0"
+  profile: "local-task-toolkit"
+  invocation: "task-specific"
+  integration-status: "portable-instructions-host-untested"
+---
+
+# Regression Tdd
+
+## Scope
+
+Read `references/local-execution-contract.md` at task start. This skill is task-specific and local-only. Do not activate remote integrations, persistent modes, hooks or unrelated implementation.
+
+## Workflow
+
+1. Identify the intended behavior, real failing path and smallest observation.
+2. Choose an existing cheap test seam that reaches the actual bug; do not create a broad harness just to satisfy TDD.
+3. Write and run the regression test before the fix, checking that it fails for the intended reason.
+4. Apply the smallest authorized fix and rerun the test and original reproduction.
+5. If a proper test is impractical, preserve the closest executable local check and explain what it cannot prove.
+
+## Commit handoff
+
+When this implementation task explicitly includes local commits, read the installed commit-workflow hub for small green slices, confirmed requester identity, structured messages and actual post-commit checks. Do not commit or move dependent work forward on a failing/stale gate; the shared contract preserves scope and host approval requirements.
+
+## Default output
+
+Failing-before and passing-after evidence, or a precise fallback-check limitation.
+
+## Failure boundary
+
+Report the missing input or capability; do not fabricate evidence or broaden the task.
+
+## Upstream resources
+
+The full original skill and its resources are preserved under `references/upstream/`. Read `references/upstream/ORIGINAL-SKILL.md` for detailed rubrics, templates and examples when its branch is relevant. Resolve its relative resource paths from that directory. Its tool names, model IDs, publication steps, transcript paths and persistent modes are source-specific examples, not permission to execute them. Follow this hub and the local execution contract when those instructions conflict.
+
+## Provenance
+
+Adapted from [pstack:tdd](https://github.com/cursor/plugins/blob/1e5c90a4b6f249917bd21fe361b3a2a7deb741b8/pstack/skills/tdd/SKILL.md). The original MIT notice is bundled. This is a local-only adaptation, not an endorsement or a claim of native host support.
