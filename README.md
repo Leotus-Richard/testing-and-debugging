@@ -2,7 +2,7 @@
 
 Develop features test-first, reproduce bugs, and prove regression fixes through observed behavior.
 
-Version: 0.1.0. One standalone instruction skill; no mandatory sibling plugin,
+Version: 0.1.1. One standalone instruction skill; no mandatory sibling plugin,
 account connection, MCP server, hook, service, or desktop app.
 
 ## Use

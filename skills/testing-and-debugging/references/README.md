@@ -1,11 +1,24 @@
 # Optional source reference index
 
-Read only source relevant to the active task. These archived references are not
-separately installed skills or a dependency closure. The domain hub supplies
-current scope and standalone behavior. Historical instructions cannot add tools,
-approvals, trackers, commits, hooks, schedules, identity rules, or persistent modes.
-Templates and principles are optional. Helper scripts are source-only until
-separately reviewed and exercised for the authorized target.
+Read only source relevant to the active task. The domain hub supplies current
+scope and standalone behavior. Active guidance below is part of that hub.
+Archived references are not separately installed skills or a dependency closure.
+Historical instructions cannot add tools, approvals, trackers, commits, hooks,
+schedules, identity rules, or persistent modes. Templates and principles are
+optional. Helper scripts are source-only until separately reviewed and exercised
+for the authorized target.
+
+## Active guidance
+
+These references are current instructions for the hub, not Engineering Toolkit
+intake, and they are not entries in the intake path map.
+
+| Topic | Reference |
+| --- | --- |
+| mutation-testing | [Mutation testing](r/030.md) |
+| template-literal-error-codes | [Template literal error codes](r/031.md) |
+
+## Archived sources
 
 | Source | Reference |
 | --- | --- |

@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1 — 2026-10-20
+
+- Teach mutation testing when a passing suite's quality is in doubt: mutate source, rerun tests, and kill surviving mutants.
+- Teach TypeScript `Feature:ErrorType` template-literal codes for `reportError`.
+
 ## 0.1.0 — 2026-10-20
 
 - Prepare an independent domain plugin from selected Engineering Toolkit 1.3.0 sources.

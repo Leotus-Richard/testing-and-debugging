@@ -1,6 +1,6 @@
 {
   "name": "testing-and-debugging",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Develop features test-first, reproduce bugs, and prove regression fixes through observed behavior.",
   "author": {
     "name": "Leotus-Richard"
