@@ -1,0 +1,150 @@
+{
+  "formatVersion": 1,
+  "resources": [
+    {
+      "sourcePath": "skills/tdd/LICENSE",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/tdd/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/023.license"
+    },
+    {
+      "sourcePath": "skills/tdd/SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/tdd/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/024.md"
+    },
+    {
+      "sourcePath": "skills/tdd/references/local-execution-contract.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/tdd/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/025.md"
+    },
+    {
+      "sourcePath": "skills/tdd/references/upstream/mocking.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/tdd/references/upstream/mocking.md",
+      "packagePath": "skills/testing-and-debugging/references/r/028.md"
+    },
+    {
+      "sourcePath": "skills/tdd/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/tdd/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/026.md"
+    },
+    {
+      "sourcePath": "skills/tdd/references/upstream/tests.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/tdd/references/upstream/tests.md",
+      "packagePath": "skills/testing-and-debugging/references/r/029.md"
+    },
+    {
+      "sourcePath": "skills/tdd/references/upstream/agents/openai.yaml",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/tdd/references/upstream/agents/openai.yaml",
+      "packagePath": "skills/testing-and-debugging/references/r/027.yaml"
+    },
+    {
+      "sourcePath": "skills/regression-tdd/LICENSE",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/regression-tdd/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/019.license"
+    },
+    {
+      "sourcePath": "skills/regression-tdd/SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/regression-tdd/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/020.md"
+    },
+    {
+      "sourcePath": "skills/regression-tdd/references/local-execution-contract.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/regression-tdd/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/021.md"
+    },
+    {
+      "sourcePath": "skills/regression-tdd/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/regression-tdd/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/022.md"
+    },
+    {
+      "sourcePath": "skills/diagnosing-bugs/LICENSE",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/001.license"
+    },
+    {
+      "sourcePath": "skills/diagnosing-bugs/SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/002.md"
+    },
+    {
+      "sourcePath": "skills/diagnosing-bugs/references/local-execution-contract.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/003.md"
+    },
+    {
+      "sourcePath": "skills/diagnosing-bugs/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/004.md"
+    },
+    {
+      "sourcePath": "skills/diagnosing-bugs/references/upstream/agents/openai.yaml",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/references/upstream/agents/openai.yaml",
+      "packagePath": "skills/testing-and-debugging/references/r/005.yaml"
+    },
+    {
+      "sourcePath": "skills/diagnosing-bugs/references/upstream/scripts/hitl-loop.template.sh",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/references/upstream/scripts/hitl-loop.template.sh",
+      "packagePath": "skills/testing-and-debugging/references/r/006.sh"
+    },
+    {
+      "sourcePath": "skills/principle-fix-root-causes/LICENSE",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-fix-root-causes/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/007.license"
+    },
+    {
+      "sourcePath": "skills/principle-fix-root-causes/SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-fix-root-causes/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/008.md"
+    },
+    {
+      "sourcePath": "skills/principle-fix-root-causes/references/local-execution-contract.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-fix-root-causes/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/009.md"
+    },
+    {
+      "sourcePath": "skills/principle-fix-root-causes/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-fix-root-causes/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/010.md"
+    },
+    {
+      "sourcePath": "skills/principle-prove-it-works/LICENSE",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-prove-it-works/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/011.license"
+    },
+    {
+      "sourcePath": "skills/principle-prove-it-works/SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-prove-it-works/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/012.md"
+    },
+    {
+      "sourcePath": "skills/principle-prove-it-works/references/local-execution-contract.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-prove-it-works/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/013.md"
+    },
+    {
+      "sourcePath": "skills/principle-prove-it-works/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-prove-it-works/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/014.md"
+    },
+    {
+      "sourcePath": "skills/principle-test-behavior-not-implementation/LICENSE",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/015.license"
+    },
+    {
+      "sourcePath": "skills/principle-test-behavior-not-implementation/SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/016.md"
+    },
+    {
+      "sourcePath": "skills/principle-test-behavior-not-implementation/references/local-execution-contract.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/017.md"
+    },
+    {
+      "sourcePath": "skills/principle-test-behavior-not-implementation/references/upstream/ORIGINAL-SKILL.md",
+      "previousPackagePath": "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/018.md"
+    }
+  ]
+}

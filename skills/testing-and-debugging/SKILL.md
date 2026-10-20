@@ -39,8 +39,8 @@ when it cannot distinguish explanations or exceeds the task's useful budget.
 Fix the shared cause when evidence supports it. Preserve security and boundary
 validation; do not suppress the symptom through broad catches or weakened checks.
 Mock external boundaries when necessary while testing public behavior rather
-than private calls. Consult the bundled [test](references/source/tdd/references/upstream/tests.md)
-and [mocking](references/source/tdd/references/upstream/mocking.md) guidance as needed.
+than private calls. Consult the bundled [test](references/r/029.md)
+and [mocking](references/r/028.md) guidance as needed.
 
 Rerun the focused test and original scenario; run broader relevant checks only
 when the change or remaining uncertainty warrants them. Remove temporary tagged

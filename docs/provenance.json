@@ -97,250 +97,404 @@
     {
       "sourcePath": "skills/tdd/LICENSE",
       "sourceSha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5",
-      "packagePath": "skills/testing-and-debugging/references/source/tdd/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/023.license",
       "packageSha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/tdd/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/tdd/SKILL.md",
       "sourceSha256": "257dd3bd20189bc803c7ee04cf75b7d4daedb7c85931b515f023999b36258cfd",
-      "packagePath": "skills/testing-and-debugging/references/source/tdd/ORIGINAL-SKILL.md",
-      "packageSha256": "5482be022bb6e9654f5eb2b09512546b70a3e2a44a8d5ef8036c8097710d9f51",
+      "packagePath": "skills/testing-and-debugging/references/r/024.md",
+      "packageSha256": "6f2159ee9c098c6917d00056e7f1fde6abd093d0719e0bf07b81d6754ae54105",
       "modifications": [
         "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path",
         "sibling-loader-example-removed"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/tdd/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/tdd/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/testing-and-debugging/references/source/tdd/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/025.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/tdd/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/tdd/references/upstream/mocking.md",
       "sourceSha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef",
-      "packagePath": "skills/testing-and-debugging/references/source/tdd/references/upstream/mocking.md",
+      "packagePath": "skills/testing-and-debugging/references/r/028.md",
       "packageSha256": "9acee4687b3103111b3b3560947d5e22d174049b2af36c5245df2608d6bf72e8",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/tdd/references/upstream/mocking.md"
       ]
     },
     {
       "sourcePath": "skills/tdd/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "5505d25bbaa8fc14a79e4d20163936958992a2995b7f1dd1d6197edc9ed722e0",
-      "packagePath": "skills/testing-and-debugging/references/source/tdd/references/upstream/ORIGINAL-SKILL.md",
-      "packageSha256": "da7c9d9e66036968b45b97b3aaae60a79e17388e08279f0e7b0995253db2d1e1",
+      "packagePath": "skills/testing-and-debugging/references/r/026.md",
+      "packageSha256": "b225d793495a14f3f3e6f1daed6e59186032c687af7b41737ed70c874ed8b622",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/tdd/references/upstream/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/tdd/references/upstream/tests.md",
       "sourceSha256": "859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a",
-      "packagePath": "skills/testing-and-debugging/references/source/tdd/references/upstream/tests.md",
+      "packagePath": "skills/testing-and-debugging/references/r/029.md",
       "packageSha256": "9f6cac8d2452f77e34900d5092727b9677a12b45105d510e64634bdf8a78d1df",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/tdd/references/upstream/tests.md"
       ]
     },
     {
       "sourcePath": "skills/tdd/references/upstream/agents/openai.yaml",
       "sourceSha256": "ea6f01cf1b8c06a4b0f5b649d74b1b8ce8685e72af1b38d70d877693e092af0b",
-      "packagePath": "skills/testing-and-debugging/references/source/tdd/references/upstream/agents/openai.yaml",
+      "packagePath": "skills/testing-and-debugging/references/r/027.yaml",
       "packageSha256": "ea6f01cf1b8c06a4b0f5b649d74b1b8ce8685e72af1b38d70d877693e092af0b",
-      "modifications": []
+      "modifications": [
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/tdd/references/upstream/agents/openai.yaml"
+      ]
     },
     {
       "sourcePath": "skills/regression-tdd/LICENSE",
       "sourceSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "packagePath": "skills/testing-and-debugging/references/source/regression-tdd/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/019.license",
       "packageSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/regression-tdd/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/regression-tdd/SKILL.md",
       "sourceSha256": "543de3f955317f019e1da9d5bf52a951b1a2279804d55196f90e34ab8e2207c7",
-      "packagePath": "skills/testing-and-debugging/references/source/regression-tdd/ORIGINAL-SKILL.md",
-      "packageSha256": "9a44d6f387f0a809674ef7a01a62b2b072a116a82b8f0a45b1bf0675ef43f2c6",
+      "packagePath": "skills/testing-and-debugging/references/r/020.md",
+      "packageSha256": "130ea8df7fa04300f235f92ebd02d01fd26ac06e4096ccd708ef6eabfa17aa83",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/regression-tdd/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/regression-tdd/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/testing-and-debugging/references/source/regression-tdd/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/021.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/regression-tdd/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/regression-tdd/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "eeb868e2dfebee528d730a67d7b17498fac4bb85dec2e38bc5c5176aca4d5d2f",
-      "packagePath": "skills/testing-and-debugging/references/source/regression-tdd/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/022.md",
       "packageSha256": "d70349c8ed81ff0b577276bba18abd97ca535995bc27b2ae612ce300df8bda9a",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/regression-tdd/references/upstream/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/diagnosing-bugs/LICENSE",
       "sourceSha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5",
-      "packagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/001.license",
       "packageSha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/diagnosing-bugs/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/diagnosing-bugs/SKILL.md",
       "sourceSha256": "77cd2f76b6aa12fa40e420aea3c89779e231081d0a3c1838280018596627350c",
-      "packagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/ORIGINAL-SKILL.md",
-      "packageSha256": "2bb9d76874c9f52c8c9645cda1b0bd6eb6b30708e1aea7ec0376f9b6cefe09d0",
+      "packagePath": "skills/testing-and-debugging/references/r/002.md",
+      "packageSha256": "83833bfafc1e3df580e39c52c81e3475bd33d9f724c686152faf6806056da0c5",
       "modifications": [
         "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path",
         "sibling-loader-example-removed"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/diagnosing-bugs/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/diagnosing-bugs/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/003.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/diagnosing-bugs/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/diagnosing-bugs/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "849198df88cdb65fd0d97236604c1fca7ff2f22d2f705f9724a800d0266b118d",
-      "packagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/references/upstream/ORIGINAL-SKILL.md",
-      "packageSha256": "47b4bff59a3fbaa8836edaba016bcd62e6ece93a937cd1c39760dc8272782544",
+      "packagePath": "skills/testing-and-debugging/references/r/004.md",
+      "packageSha256": "7f1e3a110123b3fc5e60407c0559d36f1009d1a55e2616d1587c15353562114d",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/diagnosing-bugs/references/upstream/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/diagnosing-bugs/references/upstream/agents/openai.yaml",
       "sourceSha256": "3e430dbe4334a87597488c060cb3dc3786bb00c9182877d6f5ec41f62490e90b",
-      "packagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/references/upstream/agents/openai.yaml",
+      "packagePath": "skills/testing-and-debugging/references/r/005.yaml",
       "packageSha256": "3e430dbe4334a87597488c060cb3dc3786bb00c9182877d6f5ec41f62490e90b",
-      "modifications": []
+      "modifications": [
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/diagnosing-bugs/references/upstream/agents/openai.yaml"
+      ]
     },
     {
       "sourcePath": "skills/diagnosing-bugs/references/upstream/scripts/hitl-loop.template.sh",
       "sourceSha256": "35103539fc36873eea36074769ad454f9379d6fc8b2dc0e26ce987fd3bfe5503",
-      "packagePath": "skills/testing-and-debugging/references/source/diagnosing-bugs/references/upstream/scripts/hitl-loop.template.sh",
+      "packagePath": "skills/testing-and-debugging/references/r/006.sh",
       "packageSha256": "35103539fc36873eea36074769ad454f9379d6fc8b2dc0e26ce987fd3bfe5503",
-      "modifications": []
+      "modifications": [
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/diagnosing-bugs/references/upstream/scripts/hitl-loop.template.sh"
+      ]
     },
     {
       "sourcePath": "skills/principle-fix-root-causes/LICENSE",
       "sourceSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-fix-root-causes/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/007.license",
       "packageSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-fix-root-causes/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/principle-fix-root-causes/SKILL.md",
       "sourceSha256": "9fcac15a2ee0a9bf4006a8e3fbd20e32bd64ce6e6d8546e05a342600736bccfc",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-fix-root-causes/ORIGINAL-SKILL.md",
-      "packageSha256": "ab5b0cd7bafa2a88a05084b2f310d1f39546b87d6ba1638671caeab9e2a82458",
+      "packagePath": "skills/testing-and-debugging/references/r/008.md",
+      "packageSha256": "b3db360a90a3679941f6e9b29d3e3ec5a774f597bb6164fb707d2f5bae58c183",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-fix-root-causes/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/principle-fix-root-causes/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-fix-root-causes/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/009.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-fix-root-causes/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/principle-fix-root-causes/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "2131069d285d82fb799458494f2e4ac8759c9c6a60f9e300828c17874f514c6e",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-fix-root-causes/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/010.md",
       "packageSha256": "808a82bb9b9e78b3e0a63b1728e002562e9bad6f2a2d04d975d7a3505bc4eb7e",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-fix-root-causes/references/upstream/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/principle-prove-it-works/LICENSE",
       "sourceSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-prove-it-works/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/011.license",
       "packageSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-prove-it-works/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/principle-prove-it-works/SKILL.md",
       "sourceSha256": "f0c0ed7769154ad98bf0336a4491ea6a212d50ff27cf437dbd32d59637c9ed10",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-prove-it-works/ORIGINAL-SKILL.md",
-      "packageSha256": "48a71dcacef4fccfad2e552d6dd9145993827a902db066bb4ebee191f37dc4d4",
+      "packagePath": "skills/testing-and-debugging/references/r/012.md",
+      "packageSha256": "3d4d5b0909e3df2784bb8492c0570c75503569af451c926f05dd0d1a57965129",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-prove-it-works/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/principle-prove-it-works/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-prove-it-works/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/013.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-prove-it-works/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/principle-prove-it-works/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "ec79a15025bac8d33d62011c54f3b612733fd2a024e623b531b3637aa75070e2",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-prove-it-works/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/014.md",
       "packageSha256": "7234f30e06e631c0b36481dbf7ddf8d1af178d9e034d253cc1e291d9093d6c92",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-prove-it-works/references/upstream/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/principle-test-behavior-not-implementation/LICENSE",
       "sourceSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/LICENSE",
+      "packagePath": "skills/testing-and-debugging/references/r/015.license",
       "packageSha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
-      "modifications": []
+      "modifications": [
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/LICENSE"
+      ]
     },
     {
       "sourcePath": "skills/principle-test-behavior-not-implementation/SKILL.md",
       "sourceSha256": "a81c52c3b46ba2598c0fb97ee5e5a9a3701a78e8ecd673aa61c32b846f5e87de",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/ORIGINAL-SKILL.md",
-      "packageSha256": "83c7245d792aa191c3a8bf64d9fc5d0975131b783bd1c88f7f2c2b37c55b25c7",
+      "packagePath": "skills/testing-and-debugging/references/r/016.md",
+      "packageSha256": "67c219d3c80154ba38a2fe21cac7f9befb91dbdee1b65ee530abc944259b7048",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/ORIGINAL-SKILL.md"
       ]
     },
     {
       "sourcePath": "skills/principle-test-behavior-not-implementation/references/local-execution-contract.md",
       "sourceSha256": "17636a18160299167ce3f26902c3112f04f9157cfce6e9377c232c47c8a6f3b0",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/references/local-execution-contract.md",
+      "packagePath": "skills/testing-and-debugging/references/r/017.md",
       "packageSha256": "5d1d437ed2db313bbe6b7e8374325fe7095e126e61dd03f2c3be58461b7258a7",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/references/local-execution-contract.md"
       ]
     },
     {
       "sourcePath": "skills/principle-test-behavior-not-implementation/references/upstream/ORIGINAL-SKILL.md",
       "sourceSha256": "b2b73ba42920f9c3174ecdf808ec6e4591b3a9266ada9a05814f386004266d3a",
-      "packagePath": "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/references/upstream/ORIGINAL-SKILL.md",
+      "packagePath": "skills/testing-and-debugging/references/r/018.md",
       "packageSha256": "eb2092985fc9d07dc286f943741f334045dccc011f16d0021938b7f285f47412",
       "modifications": [
-        "archive-modification-notice"
+        "archive-modification-notice",
+        "local-reference-paths-normalized",
+        "short-distribution-path"
+      ],
+      "previousPackagePaths": [
+        "skills/testing-and-debugging/references/source/principle-test-behavior-not-implementation/references/upstream/ORIGINAL-SKILL.md"
       ]
     }
   ],
   "referenceRepairs": [],
   "nativeHostBehavior": "unverified",
-  "nativeHelpers": "archived source only; not enabled"
+  "nativeHelpers": "archived source only; not enabled",
+  "pathPortability": {
+    "layout": "flat-reference-ids",
+    "relativeFilePathLimit": 85,
+    "reason": "Windows host Git staging prefix leaves limited path budget",
+    "index": "docs/resource-paths.json"
+  }
 }

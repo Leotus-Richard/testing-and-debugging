@@ -6,3 +6,6 @@
 - Consolidate one active hub with complete optional resources and file provenance.
 - Remove mandatory sibling integrations from active instructions.
 - Preserve original license/notice terms and mark native behavior unverified.
+
+- Shorten retained-reference distribution paths for Windows host Git staging; preserve
+  source/resource mappings, license bytes, and updated link/hash provenance.

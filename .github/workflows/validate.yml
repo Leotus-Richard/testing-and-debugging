@@ -30,7 +30,7 @@ jobs:
       - name: Validate package and local resource closure
         run: python scripts/validate_package.py
       - name: Test package boundaries and reproducible release archives
-        run: python -m unittest discover -s tests -p test_package_tools.py -v
+        run: python -m unittest discover -s tests -v
       - name: Run bundled helper tests when present
         run: python scripts/test_helpers.py
       - name: Build all release formats
